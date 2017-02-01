@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Note</string>
+    <!--app bar menu-->
+    <string name="action_import">Import</string>
+    <string name="action_export">Export</string>
+    <string name="action_save">Save</string>
+    <string name="action_add_tag">Add Tag</string>
+    <!--card menu-->
+    <string name="action_delete_note">Delete</string>
+
+
+    <!--code constants-->
+    <string name="note_activity_type">Type</string>
+    <string name="drawing_type">Drawing</string>
+    <string name="text_type">Note</string>
+    <string name="edit_text_type">Edit Note</string>
+        <!--dialog-->
+    <string name="add_tag">New Tag</string>
+    <string name="tag_title">Tag Name:</string>
+    <string name="tag_title_hint">Example: Personal</string>
+        <!--note-->
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Text</string>
+    <!--contentDescription-->
+    <string name="bold_image_view">Bold</string>
+    <string name="italic_image_view">Italic</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_note_radius">0dp</dimen>
+    <dimen name="note_title_padding">10dp</dimen>
+    <dimen name="note_title">15sp</dimen>
+    <dimen name="content_padding_bottom">8dp</dimen>
+    <dimen name="content">12sp</dimen>
+    <dimen name="ic_note_overflow_width">17dp</dimen>
+    <dimen name="ic_note_overflow_height">22dp</dimen>
+    <dimen name="ic_note_overflow_margin_top">10dp</dimen>
+
+    <dimen name="spinner_name_padding_right">8dp</dimen>
+    <dimen name="spinner_name_padding_left">20dp</dimen>
+    <dimen name="spinner_name_padding_vertical">11dp</dimen>
+</resources>
